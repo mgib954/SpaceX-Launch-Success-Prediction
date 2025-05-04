@@ -57,6 +57,16 @@ A successful prediction model can help SpaceX improve mission planning and reduc
 
 ---
 
+## 💡 Why it Matters
+
+* Increase Reliability: Identify what drives successful landings
+* Reduce Costs: Prevent unnecessary booster losses
+* Enhance Safety: Mitigate risk for crew and ground operations
+* Improve Cadence: Enable faster turnaround between missions
+* Support Strategic Pricing: Predict landing success to inform customer pricing
+
+---
+
 ## 📈 Results
 
 * **Best Model**: Prediction with \~85% accuracy
