@@ -1,4 +1,4 @@
-# 🚀 SpaceX Launch Success Prediction
+# 🚀 SpaceX Launch Success Prediction Analysis
 
 ## 🧠 IBM Data Science Capstone Project
 
